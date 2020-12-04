@@ -9,4 +9,4 @@ I'm currently working with Unity (C#) and Python3 as my primary languages but ha
 - I was married in a castle
 - I once left a date sitting on my couch on New Years Eve because a new coding project was in my head and I had to at least get it going (she knew me well enough that this wasn't an unexpected occurance--we DID get out before midnight)
 
-Want to get a hold of me? jeremy [@] jiveconsulting.com
+Want to get a hold of me? baledin [@] gmail.com
