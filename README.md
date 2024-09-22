@@ -3,7 +3,7 @@
 I'm currently working with Unity (C#) and Python3 as my primary languages but have a wide range of experience with other languages, including Visual Basic, PHP, and React. I'm also a dad to two lovely children and enjoy coaching soccer, sailing, and playing games (board, card, dice, video games).
 
 #### Fun facts
-- I currently work at the Washington State Department of Revenue as an Application Developer, Journey
+- I currently work at the Washington State Department of Revenue as an Application Developer Supervisor
 - I run my own web development business - jiveconsulting.com
 - I’m currently learning character modeling with Blender
 - I was married in a castle
